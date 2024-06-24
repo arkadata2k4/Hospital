@@ -1,0 +1,23 @@
+
+body{
+  margin: 0;
+}
+.toolbar {
+  text-align: right;
+  background-color: #2fa5ed;
+  padding: 10px;
+}
+.tiny5-regular {
+  font-family: "Tiny5", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.sidebar {
+  padding: 10px;
+  text-decoration: none;
+  color: gray;
+}
+.toolbar2{
+  color: white;
+}
+

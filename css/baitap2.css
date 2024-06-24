@@ -1,0 +1,64 @@
+.container{
+    background-color: yellow;
+    padding: 20px;
+    margin: auto;
+    margin-top: 0;
+    margin-left: 0;
+}
+.item{
+    /* background-color: blue; */
+    margin: 10px 20px 10px 20px;
+    padding: 10px 40px 0px 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 500px;
+}
+h2{
+    margin: 0;
+    padding: 10px;
+}
+td{
+    padding: 10px;
+}
+span {
+    text-align: center;
+}
+button{
+    width:49% ;
+}
+table{
+    background-color: white;
+    width: 100%;
+
+}
+button{
+    width: 230px;
+    background-color: yellow;
+    padding: 10px;
+}
+span{
+    color: rebeccapurple;
+    
+}
+input[type=text] {
+    /* border: none;
+    border-bottom: 2px solid gray;
+    color: gray; */
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid gray;
+    color: gray;
+}
+input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid gray;
+    color: gray;
+}
+.center-text{
+    text-align: center;
+}
+
